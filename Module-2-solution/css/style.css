@@ -27,12 +27,12 @@
 
     div {
         position: relative;
+        border: 3.5px solid black;
         background-color: #d7cece;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: auto;
-        border: 3.5px solid black;
     }
 
     .sub1 {
