@@ -28,7 +28,6 @@
     div {
         position: relative;
         background-color: #d7cece;
-        border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
@@ -44,6 +43,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
+        border: 3.5px solid black;
         background-color: #FFB6C1;
 
     }
@@ -58,6 +58,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
+        border: 3.5px solid black;
         background-color: #FF0000;
 
     }
@@ -72,6 +73,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
+        border: 3.5px solid black;
         background-color: rgb(223, 212, 121);
 
     }
