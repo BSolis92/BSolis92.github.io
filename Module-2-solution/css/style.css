@@ -27,7 +27,7 @@
 
     div {
         position: relative;
-        background-color: rgb(211, 207, 207);
+        background-color: #d7cece;
         border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
@@ -79,7 +79,7 @@
     .content {
         padding: 5px;
         border: none;
-        background-color: rgb(211, 207, 207);
+        background-color: #d7cece; 
         font-family: Helvetica;
         color: black;
         margin: 3px ;
