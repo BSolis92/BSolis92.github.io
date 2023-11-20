@@ -36,7 +36,7 @@ ul li:not(:last-child){
     border-width: 80%;
 }
 ul li:hover{
-    background-color: #3F72AF;
+    background-color: #7aacea;
     padding-left:20px ;
 }
 p{
@@ -96,6 +96,8 @@ h2{
 }
 
 }
+
+/********* Small Displays **********/
 @media (min-width:720px)and (max-width:991px){
     #box1, #box2{
         width: calc(50% - 20px);
@@ -105,6 +107,8 @@ h2{
     }
 
 }
+
+/********* Extra Small Displays **********/
 @media (max-width:600px){
     #box1,#box2 , #box3{
        height: 400px;
